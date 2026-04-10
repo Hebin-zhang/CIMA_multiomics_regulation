@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Large data
+data/raw/
+data/interim/
+data/processed/
+results/
+tmp/
+
+# Conda
+.env
+.envrc

@@ -1,0 +1,16 @@
+name: cima_multiomics
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - pyarrow
+  - matplotlib
+  - jupyterlab
+  - pyyaml
+  - snakemake
+  - pytest

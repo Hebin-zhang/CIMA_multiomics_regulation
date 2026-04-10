@@ -1,0 +1,10 @@
+gwas:
+  maf: 0.01
+  geno: 0.01
+  hwe: 1e-4
+  pcs: 3
+  trait_missing_threshold: 0.2
+
+qtl:
+  cis_window: 1000000
+  peer_factors: 15

@@ -1,0 +1,13 @@
+project_root: /mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation
+
+raw_data:
+  cima_root: /mnt/a100-nas-new/personal/wangzilin/attention/CIMA
+  metabolite_lipid_csv: /mnt/a100-nas-new/personal/wangzilin/attention/CIMA/Metabolites_and_Lipids/CIMA_Sample_Plasma_Metabolites_and_Lipids_Results.csv
+  gene_dir: /mnt/a100-nas-new/personal/wangzilin/attention/CIMA/Gene
+  protein_dir: /mnt/a100-nas-new/personal/wangzilin/attention/CIMA/protein
+  meta_dir: /mnt/a100-nas-new/personal/wangzilin/attention/CIMA/meta
+
+working_data:
+  local_raw: /mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/raw
+  interim: /mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/interim
+  processed: /mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/processed
