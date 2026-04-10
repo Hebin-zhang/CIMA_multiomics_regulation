@@ -1,26 +1,27 @@
-# Python
+# 临时和缓存
+tmp/
+
+# 原始数据 / 未处理的敏感数据
+data/raw/
+data/interim/
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 *.egg-info/
-.venv/
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
 
-# OS
+# OS 系统文件
 .DS_Store
 
-# Logs
-logs/
-*.log
-
-# Large data
-data/raw/
-data/interim/
-data/processed/
-results/
-tmp/
-
-# Conda
-.env
-.envrc
+# LDAK / PLINK 中间文件
+*.pgen
+*.pvar
+*.psam
+*.bed
+*.bim
+*.fam
