@@ -6,27 +6,27 @@ Options in effect:
   --out /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_related
   --pfile /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID_metaMatched
 
-Hostname: task-p20z10200n0041-uz4pdcch-6dcd8d6c5-zxlsq
+Hostname: task-p20z10200n0041-8vawcqyd-b9dcc4dcc-lzr2r
 Working directory: /data/work/CIMA_multiomics_regulation/notebooks/01_eda
-Start time: Wed Apr 15 14:27:43 2026
+Start time: Thu Apr 16 10:28:53 2026
 
-Random number seed: 1776234463
-385581 MiB RAM detected, ~79925 available; reserving 79861 MiB for main
+Random number seed: 1776306533
+2051949 MiB RAM detected, ~475323 available; reserving 475259 MiB for main
 workspace.
-Using up to 96 threads (change this with --threads).
+Using up to 256 threads (change this with --threads).
 443 samples (0 females, 0 males, 443 ambiguous; 443 founders) loaded from
 /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID_metaMatched.psam.
 13698278 variants loaded from
 /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID_metaMatched.pvar.
 Note: No phenotype data present.
---extract: 313785 variants remaining.
-313785 variants remaining after main filters.
+--extract: 313999 variants remaining.
+313999 variants remaining after main filters.
 --make-king-table pass 1/1: Scanning for rare variants... done.
-0 variants handled by initial scan (313785 remaining).
---make-king-table: 313785 variants processed.
+0 variants handled by initial scan (313999 remaining).
+--make-king-table: 313999 variants processed.
 Results written to
 /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_related.kin0
 .
 --king-table-filter: 0 relationships reported (97903 filtered out).
 
-End time: Wed Apr 15 14:27:47 2026
+End time: Thu Apr 16 10:28:58 2026
