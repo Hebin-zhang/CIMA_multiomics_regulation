@@ -1,0 +1,11 @@
+  #N    eigenvalue  difference    twstat      p-value effect. n
+   1      2.159790          NA     3.878  0.000286457   222.473
+   2      1.273300   -0.886490        NA           NA        NA
+   3      1.196150   -0.077150        NA           NA        NA
+   4      1.184130   -0.012020        NA           NA        NA
+   5      1.166950   -0.017180        NA           NA        NA
+   6      1.163280   -0.003670        NA           NA        NA
+   7      1.159750   -0.003530        NA           NA        NA
+   8      1.156290   -0.003460        NA           NA        NA
+   9      1.152970   -0.003320        NA           NA        NA
+  10      1.152010   -0.000960        NA           NA        NA
