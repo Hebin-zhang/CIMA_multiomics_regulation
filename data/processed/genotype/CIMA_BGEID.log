@@ -5,14 +5,14 @@ Options in effect:
   --pfile /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_raw
   --update-ids /data/work/CIMA_multiomics_regulation/data/processed/genotype/update_ids.tsv
 
-Hostname: task-p20z10200n0041-uz4pdcch-6dcd8d6c5-zxlsq
+Hostname: task-p20z10200n0041-8vawcqyd-b9dcc4dcc-lzr2r
 Working directory: /data/work/CIMA_multiomics_regulation/notebooks/01_eda
-Start time: Wed Apr 15 14:16:01 2026
+Start time: Thu Apr 16 14:46:33 2026
 
-Random number seed: 1776233761
-385581 MiB RAM detected, ~119797 available; reserving 119733 MiB for main
+Random number seed: 1776321993
+2051949 MiB RAM detected, ~329323 available; reserving 329259 MiB for main
 workspace.
-Using up to 96 threads (change this with --threads).
+Using up to 256 threads (change this with --threads).
 443 samples (0 females, 0 males, 443 ambiguous; 443 founders) loaded from
 /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_raw.psam.
 13698278 variants loaded from
@@ -29,4 +29,4 @@ Writing
 /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID.pgen
 ... done.
 
-End time: Wed Apr 15 14:16:12 2026
+End time: Thu Apr 16 14:46:49 2026
