@@ -1,7 +1,7 @@
 gwas:
-  maf: 0.01
+  maf: 0.05
   geno: 0.01
-  hwe: 1e-4
+  hwe: 1e-6
   pcs: 3
   trait_missing_threshold: 0.2
 
