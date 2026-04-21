@@ -1,23 +1,23 @@
 PLINK v2.0.0-a.6.9LM 64-bit Intel (29 Jan 2025)
 Options in effect:
-  --extract /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_pca_prune.prune.in
-  --out /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_pca
+  --extract /mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/processed/genotype/CIMA_pca_prune.prune.in
+  --out /mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/processed/genotype/CIMA_pca
   --pca 10
-  --pfile /data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID_metaMatched
+  --pfile /mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID_metaMatched
   --threads 6
 
-Hostname: task-p20z10200n0041-8vawcqyd-b9dcc4dcc-lzr2r
-Working directory: /data/work/CIMA_multiomics_regulation/notebooks/01_eda
-Start time: Thu Apr 16 14:47:32 2026
+Hostname: iZ1pp01kqmxkrxsegkxkcyZ
+Working directory: /mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/notebooks/01_eda
+Start time: Mon Apr 20 17:02:04 2026
 
-Random number seed: 1776322052
-2051949 MiB RAM detected, ~324946 available; reserving 324882 MiB for main
+Random number seed: 1776675724
+241108 MiB RAM detected, ~104202 available; reserving 104138 MiB for main
 workspace.
 Using up to 6 compute threads.
 443 samples (0 females, 0 males, 443 ambiguous; 443 founders) loaded from
-/data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID_metaMatched.psam.
+/mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID_metaMatched.psam.
 13698278 variants loaded from
-/data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID_metaMatched.pvar.
+/mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/processed/genotype/CIMA_BGEID_metaMatched.pvar.
 Note: No phenotype data present.
 --extract: 313999 variants remaining.
 Calculating allele frequencies... done.
@@ -25,9 +25,9 @@ Calculating allele frequencies... done.
 Constructing GRM: done.
 Extracting eigenvalues and eigenvectors... done.
 --pca: Eigenvectors written to
-/data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_pca.eigenvec
+/mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/processed/genotype/CIMA_pca.eigenvec
 , and eigenvalues written to
-/data/work/CIMA_multiomics_regulation/data/processed/genotype/CIMA_pca.eigenval
+/mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/processed/genotype/CIMA_pca.eigenval
 .
 
-End time: Thu Apr 16 14:47:45 2026
+End time: Mon Apr 20 17:02:09 2026

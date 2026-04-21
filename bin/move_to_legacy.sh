@@ -13,7 +13,7 @@ set -euo pipefail
 # 4) 绝对路径（但必须在项目根目录内）
 # =========================================================
 
-PROJECT_ROOT="/data/work/CIMA_multiomics_regulation"
+PROJECT_ROOT="/mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation"
 LEGACY_ROOT="${PROJECT_ROOT}/.legacy"
 
 # =========================================================
@@ -22,11 +22,7 @@ LEGACY_ROOT="${PROJECT_ROOT}/.legacy"
 # 例子先给你放着，不要的就删掉
 # =========================================================
 MOVE_LIST=$(cat <<'EOF'
-/data/work/CIMA_multiomics_regulation/data/results/gwas_all_16
-/data/work/CIMA_multiomics_regulation/data/results/gwas_test_1pc
-/data/work/CIMA_multiomics_regulation/data/results/gwas_test_5pc
-/data/work/CIMA_multiomics_regulation/data/results/gwas_test_nopc
-/data/work/CIMA_multiomics_regulation/data/results/pca_report_figures
+/mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/notebooks/01_eda/01_raw_meta_inventory_and_conversion.ipynb
 EOF
 )
 
