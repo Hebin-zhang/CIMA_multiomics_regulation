@@ -22,7 +22,7 @@ LEGACY_ROOT="${PROJECT_ROOT}/.legacy"
 # 例子先给你放着，不要的就删掉
 # =========================================================
 MOVE_LIST=$(cat <<'EOF'
-/mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/notebooks/01_eda/01_raw_meta_inventory_and_conversion.ipynb
+/mnt/zzbnew/peixunban/zhanghebin/CIMA_multiomics_regulation/data/results/heritability_greml
 EOF
 )
 
